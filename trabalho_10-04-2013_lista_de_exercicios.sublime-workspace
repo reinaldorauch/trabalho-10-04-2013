@@ -1,0 +1,1839 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"moda",
+				"modalDetalhes"
+			],
+			[
+				"impor",
+				"important"
+			],
+			[
+				"view",
+				"viewRenderer"
+			],
+			[
+				"exc",
+				"Exception"
+			],
+			[
+				"data",
+				"data_atual"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"get",
+				"getVencimento  (function)"
+			],
+			[
+				"cl",
+				"clientes"
+			],
+			[
+				"__",
+				"__FILE__"
+			],
+			[
+				"real",
+				"realpath"
+			],
+			[
+				"base",
+				"baseURL"
+			],
+			[
+				"usu",
+				"usuario_db"
+			],
+			[
+				"Zend_",
+				"Zend_Db_Adapter"
+			],
+			[
+				"Zend",
+				"Zend_Db_Adapter"
+			],
+			[
+				"fil",
+				"filters"
+			],
+			[
+				"base_",
+				"base64_encode"
+			],
+			[
+				"getdE",
+				"getDefaultAdapter  (function)"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"emp",
+				"empty"
+			],
+			[
+				"id_p",
+				"id_plano"
+			],
+			[
+				"MOdel",
+				"Model_Planos"
+			],
+			[
+				"exl",
+				"excluido"
+			],
+			[
+				"ins",
+				"inscricao_estadual"
+			],
+			[
+				"telef",
+				"telefone"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"pl",
+				"planos"
+			],
+			[
+				"addMul",
+				"addMultiOption"
+			],
+			[
+				"Model_P",
+				"Model_Planos"
+			],
+			[
+				"arry",
+				"array"
+			],
+			[
+				"re",
+				"regexTelefone"
+			],
+			[
+				"Zend_TE",
+				"Zend_Form_Element_Text"
+			],
+			[
+				"Zend_Te",
+				"Zend_Form_Element_Text"
+			],
+			[
+				"pla",
+				"placeholder"
+			],
+			[
+				"Qa",
+				"Quantidade"
+			],
+			[
+				"Sele",
+				"select"
+			],
+			[
+				"fetch",
+				"fetchAll"
+			],
+			[
+				"remo",
+				"removerAction"
+			],
+			[
+				"getPa",
+				"getParam"
+			],
+			[
+				"getCon",
+				"getControllerName  (function)"
+			],
+			[
+				"B",
+				"BASE_URL"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"mysql_e",
+				"mysql_escape_string"
+			],
+			[
+				"dados",
+				"dados"
+			],
+			[
+				"qtd_",
+				"qtd_operacoes_mes"
+			],
+			[
+				"qt",
+				"qtd_clientes_group"
+			],
+			[
+				"setEle",
+				"setElementFilters"
+			],
+			[
+				"setA",
+				"setAttrib"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"setDis",
+				"setDisableLoadDefaultDecorators  (function)"
+			],
+			[
+				"set",
+				"setAttrib  (function)"
+			],
+			[
+				"me",
+				"methods"
+			],
+			[
+				"planos",
+				"planosLista"
+			],
+			[
+				"Model",
+				"Model_Planos"
+			],
+			[
+				"_",
+				"_helper  (variable)"
+			],
+			[
+				"res",
+				"resources"
+			],
+			[
+				"nav",
+				"navConfig"
+			],
+			[
+				"na",
+				"navigation"
+			],
+			[
+				"is",
+				"isAllowed"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"co",
+				"controller"
+			],
+			[
+				"te",
+				"text/javascript"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"getNome",
+				"getNomePerfil"
+			],
+			[
+				"setNome",
+				"setNomePerfil"
+			],
+			[
+				"Mod",
+				"Model_Usuario"
+			],
+			[
+				"us",
+				"usuarios"
+			],
+			[
+				"adm",
+				"administrador"
+			],
+			[
+				"PER",
+				"perfil"
+			],
+			[
+				"Zed",
+				"Zend\\Authentication\\Storage\\Session"
+			],
+			[
+				"id",
+				"identity"
+			],
+			[
+				"Zfc",
+				"ZfcRbac\\Firewall\\Route"
+			],
+			[
+				"per",
+				"perfil"
+			],
+			[
+				"O",
+				"ObjectProperty"
+			],
+			[
+				"auth",
+				"authAdapter"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"Usua",
+				"Usuario"
+			],
+			[
+				"Usu",
+				"Usuario"
+			],
+			[
+				"admin",
+				"admin"
+			],
+			[
+				"sw",
+				"switcher"
+			],
+			[
+				"Us",
+				"Usuario"
+			],
+			[
+				"tab",
+				"tableGateway  (variable)"
+			],
+			[
+				"row",
+				"rowset"
+			],
+			[
+				"aut",
+				"authAdapter"
+			],
+			[
+				"insta",
+				"instanceof"
+			],
+			[
+				"UsuariosTa",
+				"UsuariosTable"
+			],
+			[
+				"Auth",
+				"AuthAdapter"
+			],
+			[
+				"getPe",
+				"getPerfil"
+			],
+			[
+				"getUsu",
+				"getUsuariosTable"
+			],
+			[
+				"getPer",
+				"getPerfisTable"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"db",
+				"dbAdapter"
+			],
+			[
+				"Usuarios",
+				"UsuariosTable"
+			],
+			[
+				"UsuariosTab",
+				"UsuariosTableGateway"
+			],
+			[
+				"ta",
+				"tableGateway"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"Fi",
+				"FinsysAdmin"
+			],
+			[
+				"E",
+				"Exception"
+			],
+			[
+				"Fin",
+				"FinsysAdmin\\Entity\\Usuarios"
+			],
+			[
+				"getRe",
+				"getReference"
+			],
+			[
+				"Cl",
+				"Cliente"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"is_nu",
+				"is_null"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Do",
+				"Doctrine\\ORM\\EntityManager"
+			],
+			[
+				"getVa",
+				"getValidatorChain"
+			],
+			[
+				"getval",
+				"getValidationGroup"
+			],
+			[
+				"getVal",
+				"getValidationGroup"
+			],
+			[
+				"m",
+				"metadata"
+			],
+			[
+				"get_clas",
+				"get_class_methods  (function)"
+			],
+			[
+				"getIn",
+				"getInputFilter"
+			],
+			[
+				"inst",
+				"inscricaoEstadual"
+			],
+			[
+				"En",
+				"EntityRepository  (namespace)"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"pb",
+				"public"
+			],
+			[
+				"H",
+				"Hydrator"
+			],
+			[
+				"Entit",
+				"EntityRepository"
+			],
+			[
+				"F",
+				"FinsysAdmin  (namespace)"
+			],
+			[
+				"gert",
+				"getServiceLocator  (function)"
+			],
+			[
+				"get_c",
+				"get_class_methods"
+			],
+			[
+				"C",
+				"CrudController"
+			],
+			[
+				"hoe",
+				"home/usuarios"
+			],
+			[
+				"defu",
+				"default"
+			],
+			[
+				"getEve",
+				"getEventManager"
+			],
+			[
+				"Mo",
+				"ModuleManager"
+			],
+			[
+				"mOD",
+				"moduleManager"
+			],
+			[
+				"Ent",
+				"Entity"
+			],
+			[
+				"doc",
+				"doctrine"
+			],
+			[
+				"Sessio",
+				"SessionStorage"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "C/Prog_exe_01.c",
+			"settings":
+			{
+				"buffer_size": 572,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "C/Prog_exe_02.c",
+			"settings":
+			{
+				"buffer_size": 428,
+				"line_ending": "Unix",
+				"name": "Program Prog_exe_02 ;"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet gets",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"Snippet: get",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"Ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Ips",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"pacha",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"li",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			],
+			[
+				"Apac",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"INst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"fun",
+				"Snippet: Function Signature"
+			],
+			[
+				"inter",
+				"Snippet: Interface"
+			]
+		],
+		"width": 719.0
+	},
+	"console":
+	{
+		"height": 473.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/reinaldo/uepg/Algoritmos e Programação/trabalho_10-04-13_lista_exercicios/Prog_exe_01.pas",
+		"/home/reinaldo/trabalhos/finsys/public/js/files/functions.js",
+		"/home/reinaldo/trabalhos/finsys/application/models/Clientes.php",
+		"/home/reinaldo/trabalhos/finsys/application/controllers/ClientesController.php",
+		"/home/reinaldo/trabalhos/finsys/public/css/styles.css",
+		"/home/reinaldo/trabalhos/finsys/application/views/scripts/clientes/detalhes.phtml",
+		"/home/reinaldo/trabalhos/finsys/application/configs/navigation.xml",
+		"/home/reinaldo/trabalhos/finsys/library/Aplicacao/Acl/Setup.php",
+		"/home/reinaldo/trabalhos/finsys/application/models/Planos.php",
+		"/home/reinaldo/trabalhos/efolha/application/views/scripts/usuarios/detalhes.phtml",
+		"/home/reinaldo/trabalhos/finsys/application/controllers/CrudController.php",
+		"/home/reinaldo/trabalhos/finsys/application/views/scripts/clientes/alterar.phtml",
+		"/home/reinaldo/trabalhos/finsys/application/models/Schema.php",
+		"/home/reinaldo/trabalhos/finsys/public/index.php",
+		"/home/reinaldo/trabalhos/finsys/application/models/Crud.php",
+		"/home/reinaldo/trabalhos/finsys/application/views/scripts/clientes/index.phtml",
+		"/home/reinaldo/trabalhos/finsys/application/forms/Clientes.php",
+		"/mnt/design/Interfaces/themeforest-2543882-aquincum-premium-responsive-admin-template (1)/HTML/ui_icons.html",
+		"/home/reinaldo/trabalhos/finsys/application/views/scripts/partials/clientes.phtml",
+		"/mnt/design/Interfaces/themeforest-2543882-aquincum-premium-responsive-admin-template (1)/HTML/tables_control.html",
+		"/home/reinaldo/trabalhos/finsys/application/layouts/scripts/layout.phtml",
+		"/home/reinaldo/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/reinaldo/trabalhos/finsys/application/controllers/PlanosController.php",
+		"/home/reinaldo/trabalhos/finsys/application/controllers/AuthController.php",
+		"/home/reinaldo/trabalhos/mbs/application/forms/Cliente.php",
+		"/home/reinaldo/trabalhos/finsys/application/forms/CrudFormAbstract.php",
+		"/home/reinaldo/trabalhos/finsys/application/forms/Planos.php",
+		"/home/reinaldo/trabalhos/finsys/application/models/Renovacoes.php",
+		"/home/reinaldo/trabalhos/finsys/application/views/scripts/planos/index.phtml",
+		"/home/reinaldo/trabalhos/finsys/application/views/scripts/planos/cadastrar.phtml",
+		"/home/reinaldo/trabalhos/finsys/public/.htaccess",
+		"/home/reinaldo/trabalhos/ibi2/application/views/scripts/usuarios/salvar.phtml",
+		"/home/reinaldo/trabalhos/finsys/library/Zend/Form/Decorator/Label.php",
+		"/home/reinaldo/trabalhos/ibi2/application/forms/Formdecorator.php",
+		"/home/reinaldo/trabalhos/ibi2/application/views/scripts/usuarios/index.phtml",
+		"/home/reinaldo/trabalhos/ibi2/application/forms/Usuario.php",
+		"/home/reinaldo/trabalhos/finsys/application/forms/Login.php",
+		"/home/reinaldo/trabalhos/finsys/application/views/scripts/admin/index.phtml",
+		"/home/reinaldo/trabalhos/finsys/application/views/scripts/partials/planos.phtml",
+		"/home/reinaldo/trabalhos/finsys/application/controllers/AdminController.php",
+		"/home/reinaldo/trabalhos/finsys/library/Aplicacao/Plugin/Auth.php",
+		"/home/reinaldo/trabalhos/finsys/application/views/scripts/planos/alterar.phtml",
+		"/home/reinaldo/trabalhos/ibi2/application/controllers/CrudController.php",
+		"/home/reinaldo/trabalhos/ibi2/application/views/scripts/usuarios/edit.phtml",
+		"/home/reinaldo/trabalhos/mbs/application/forms/CrudAbstract.php",
+		"/home/reinaldo/trabalhos/ibi2/application/controllers/ClienteController.php",
+		"/home/reinaldo/trabalhos/finsys/library/Zend/Db/Table/Abstract.php",
+		"/home/reinaldo/trabalhos/ibi2/application/controllers/CaixaController.php",
+		"/home/reinaldo/trabalhos/ibi2/application/views/scripts/caixa/index.phtml",
+		"/home/reinaldo/trabalhos/ibi2/application/forms/Caixa.php",
+		"/home/reinaldo/trabalhos/finsys/application/views/planos/index.phtml",
+		"/home/reinaldo/trabalhos/finsys/library/Zend/Controller/Action/Helper/FlashMessenger.php",
+		"/home/reinaldo/trabalhos/finsys/application/controllers/ErrorController.php",
+		"/home/reinaldo/trabalhos/finsys/application/configs/application.ini",
+		"/home/reinaldo/trabalhos/finsys/application/models/Auth.php",
+		"/home/reinaldo/trabalhos/finsys/application/Bootstrap.php",
+		"/home/reinaldo/trabalhos/finsys/library/Zend/View/Helper/Navigation.php",
+		"/home/reinaldo/trabalhos/finsys/library/Zend/View/Helper/HtmlObject.php",
+		"/home/reinaldo/trabalhos/finsys/library/Zend/View/Helper/Navigation/HelperAbstract.php",
+		"/home/reinaldo/trabalhos/finsys/application/views/scripts/navigation/nav.phtml",
+		"/home/reinaldo/trabalhos/ibi2/application/views/scripts/navigation/nav.phtml",
+		"/home/reinaldo/trabalhos/finsys/application/controllers/IndexController.php",
+		"/home/reinaldo/trabalhos/finsys/library/Zend/Debug.php",
+		"/home/reinaldo/trabalhos/finsys/application/controllers/UsuariosController.php",
+		"/home/reinaldo/trabalhos/finsys/application/views/scripts/auth/login.phtml",
+		"/home/reinaldo/trabalhos/finsys/application/views/scripts/index/sistema.phtml",
+		"/home/reinaldo/trabalhos/finsys/library/Zend/Version.php",
+		"/home/reinaldo/trabalhos/finsys/application/models/Usuario.php",
+		"/home/reinaldo/trabalhos/finsys/application/models/Usuarios.php",
+		"/home/reinaldo/trabalhos/finsys/library/Zend/Controller/Front.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/view/layout/login.phtml",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Controller/LoginController.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/view/finsys-admin/admin/index.phtml",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Controller/AdminController.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Authentication/Storage/Session.php",
+		"/home/reinaldo/trabalhos/finsys/config/autoload/zfcrbac.global.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Session/Container.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Session/AbstractContainer.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/Module.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Model/Perfil.php",
+		"/home/reinaldo/trabalhos/finsys/config/application.config.php",
+		"/home/reinaldo/trabalhos/finsys/composer.json",
+		"/home/reinaldo/trabalhos/finsys/vendor/zf-commons/zfc-rbac/src/ZfcRbac/Firewall/Route.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zf-commons/zfc-rbac/src/ZfcRbac/Firewall/Listener/Route.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zf-commons/zfc-rbac/src/ZfcRbac/Identity/StandardIdentity.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zf-commons/zfc-rbac/src/ZfcRbac/Firewall/Controller.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zf-commons/zfc-rbac/src/ZfcRbac/Provider/Generic/Permission/InMemory.php",
+		"/home/reinaldo/trabalhos/finsys/composer.lock",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Session/Storage/ArrayStorage.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Model/Usuario.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Model/UsuariosTable.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Auth/Adapter.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Session/Storage/SessionStorage.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/view/finsys-admin/login/index.phtml",
+		"/home/reinaldo/trabalhos/finsys/status",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Authentication/Result.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Authentication/AuthenticationService.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Model/PerfisTable.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/config/module.config.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Stdlib/Hydrator/ObjectProperty.php",
+		"/home/reinaldo/trabalhos/finsys/config/autoload/local.php",
+		"/home/reinaldo/trabalhos/finsys/config/autoload/global.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Form/CrudFilter.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Module/UsuariosTable.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Module/Usuario.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Db/TableGateway/AbstractTableGateway.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Db/TableGateway/TableGateway.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Db/Sql/Select.php",
+		"/home/reinaldo/trabalhos/finsys/docs/.gitignore",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/View/Helper/PartialLoop.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/view/partials/usuarios.phtml",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Stdlib/Hydrator/ClassMethods.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Form/Form.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Form/Usuarios.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Controller/CrudController.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Form/CrudForm.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Service/Usuarios.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/view/finsys-admin/usuarios/novo.phtml",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Form/UsuarioFilter.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Service/AbstractService.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Entity/PerfilRepository.php",
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Entity/Usuarios.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Options/EntityManager.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Stdlib/AbstractOptions.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/I18n/Validator/Alnum.php",
+		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/I18n/Validator/Alpha.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/reinaldo/trabalhos/finsys/public/js",
+			"/home/reinaldo/trabalhos/finsys/",
+			"/home/reinaldo/trabalhos/finsys/application",
+			"/home/reinaldo/trabalhos/finsys/",
+			"/home/reinaldo/trabalhos/finsys/module",
+			"/home/reinaldo/trabalhos/finsys/vendor/doctrine/",
+			"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/view/finsys-admin/index",
+			"/home/reinaldo/trabalhos/mbs/application",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/public/scripts",
+			"/home/reinaldo/trabalhos/mbs/application/controllers",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/library/Zend",
+			"/home/reinaldo/trabalhos/mbs/application",
+			"/home/reinaldo/trabalhos/mbs/library/Zend/View",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/application/controllers",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"*Controller.php",
+			"*.phtml",
+			"*.js",
+			"*.php",
+			"*.phtml",
+			"*.php",
+			"*.js",
+			"",
+			"/mnt/www/mbs/public/stylesheets",
+			"*.phtml,/mnt/www/mbs/application/views/scripts",
+			"*.js,/mnt/www/mbs/application/views/scripts",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"3",
+			"2",
+			"planos",
+			"Planos",
+			"planos",
+			"class=\"\"",
+			" (",
+			"(int)",
+			"_helper",
+			"reativar",
+			"Reativar",
+			"dicionar",
+			"tablectrl_small",
+			"[type]",
+			"cliente",
+			"conn",
+			";",
+			"$sql",
+			"quote",
+			" $",
+			"filter",
+			"nome",
+			"USER",
+			"user",
+			"USER",
+			"user",
+			":",
+			"col",
+			"<div class=\"formRow\">\n		<p>\n			<h6>Email: </h6><?= $c['email'] ?>\n		</p>\n	</div>",
+			"<div>",
+			"div",
+			"detalhes",
+			"detail",
+			"detalhes",
+			"success",
+			"contao",
+			"email fixo",
+			"Telefone",
+			"telefone",
+			"Telefone",
+			"telefone",
+			"modalEdit",
+			"modalInsert",
+			"insert",
+			"loadFunctions",
+			"modalEdit",
+			"insert",
+			"update",
+			"')\n",
+			"clientes",
+			"';\n",
+			"update",
+			"salvar",
+			"update(",
+			"update",
+			"$this->addDisplayGroup(array(\n			'nome'\n		), 'nome_group');",
+			"<td>WOW</td>",
+			"th",
+			"<td>",
+			"h5",
+			"\n	",
+			"p",
+			"></div></div>",
+			"\"></div></div>",
+			"<div class=\"glyph\">",
+			"Administrador",
+			"Zend_Controller_Front::getInstance()->getRequest()",
+			"findByResource",
+			".",
+			"var_dump(",
+			"die(var_dump",
+			"fichas",
+			"Fichas",
+			"fichas",
+			"ensaio",
+			"Ensaio",
+			"ensaio",
+			"enforna",
+			"Enforna",
+			"enforna",
+			"producao",
+			")\n    {",
+			"tance();\n        $this->_user = $auth->getStorage()->read();\n        $this->view->user = $this->",
+			"Você não tem permissão",
+			"Aplicacao_Plugin_Auth",
+			"=>",
+			"protected",
+			"');\n",
+			"BASE_URL",
+			"<?=",
+			"count",
+			"{\n",
+			"addValidator",
+			"die",
+			"visitante",
+			"guest",
+			"IdEmpresa",
+			"Model_Usuario",
+			"dContador",
+			"IdEmpresa",
+			"idEmpresa",
+			"IdEmpresa",
+			"LastLogin",
+			"_lastLogin",
+			"_roleId",
+			"fullName",
+			"FullName",
+			"_fullName",
+			"userName",
+			"UserName",
+			"_userName",
+			"visitante",
+			"dispatch",
+			"dispatch()",
+			"plugin",
+			"guest",
+			"webmaster",
+			"usuario",
+			"guest",
+			"'),\n",
+			"');\n",
+			"toArray",
+			"id_cliente",
+			"IdCliente",
+			"Perfil",
+			"id_perfil",
+			"UltimoAcesso",
+			"ultimoAcesso"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"            \n",
+			"remover",
+			"')\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "C/Prog_exe_01.c",
+					"settings":
+					{
+						"buffer_size": 572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.0,
+							"encoding_helper_encoding": "Unknown",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": 0,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "C/Prog_exe_02.c",
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "Program Prog_exe_02 ;",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"function_name_status_row": -1,
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"modelclie",
+				"application/models/Clientes.php"
+			],
+			[
+				"fun",
+				"public/js/files/functions.js"
+			],
+			[
+				"crudcon",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"auth",
+				"application/controllers/AuthController.php"
+			],
+			[
+				"aclset",
+				"library/Aplicacao/Acl/Setup.php"
+			],
+			[
+				"planosindex",
+				"application/views/scripts/planos/index.phtml"
+			],
+			[
+				"zendformdecoratorla",
+				"library/Zend/Form/Decorator/Label.php"
+			],
+			[
+				"planos",
+				"application/forms/Planos.php"
+			],
+			[
+				"",
+				"public/js/files/functions.js"
+			],
+			[
+				"functions",
+				"public/js/files/functions.js"
+			],
+			[
+				"crudcontre",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"planoscontro",
+				"application/controllers/PlanosController.php"
+			],
+			[
+				"planos.phtm",
+				"application/views/scripts/partials/planos.phtml"
+			],
+			[
+				"planosinde",
+				"application/views/scripts/planos/index.phtml"
+			],
+			[
+				"zenddbtablea",
+				"library/Zend/Db/Table/Abstract.php"
+			],
+			[
+				"crudco",
+				"application/controllers/CrudController.php"
+			],
+			[
+				"lay",
+				"application/layouts/scripts/layout.phtml"
+			],
+			[
+				"zendviewhelperhtml",
+				"library/Zend/View/Helper/HtmlObject.php"
+			],
+			[
+				"zendviewhelperna",
+				"library/Zend/View/Helper/Navigation/HelperAbstract.php"
+			],
+			[
+				"flash",
+				"library/Zend/Controller/Action/Helper/FlashMessenger.php"
+			],
+			[
+				"setup",
+				"library/Aplicacao/Acl/Setup.php"
+			],
+			[
+				"authcon",
+				"application/controllers/AuthController.php"
+			],
+			[
+				"aut",
+				"application/models/Auth.php"
+			],
+			[
+				"boot",
+				"application/Bootstrap.php"
+			],
+			[
+				"modelauth",
+				"application/models/Auth.php"
+			],
+			[
+				"zendcontrollerfron",
+				"library/Zend/Controller/Front.php"
+			],
+			[
+				"app",
+				"application/configs/application.ini"
+			],
+			[
+				"basecontainer",
+				"vendor/zendframework/zendframework/library/Zend/Session/AbstractContainer.php"
+			],
+			[
+				"sessionconta",
+				"vendor/zendframework/zendframework/library/Zend/Session/Container.php"
+			],
+			[
+				"zendauthstorage",
+				"vendor/zendframework/zendframework/library/Zend/Authentication/Storage/Session.php"
+			],
+			[
+				"stan",
+				"vendor/zf-commons/zfc-rbac/src/ZfcRbac/Identity/StandardIdentity.php"
+			],
+			[
+				"zfcpermission",
+				"vendor/zf-commons/zfc-rbac/src/ZfcRbac/Provider/Generic/Permission/InMemory.php"
+			],
+			[
+				"zfcrbacrole",
+				"vendor/zf-commons/zfc-rbac/src/ZfcRbac/Firewall/Controller.php"
+			],
+			[
+				"zfcbacfirewallroute",
+				"vendor/zf-commons/zfc-rbac/src/ZfcRbac/Firewall/Listener/Route.php"
+			],
+			[
+				"firewallrou",
+				"vendor/zf-commons/zfc-rbac/src/ZfcRbac/Firewall/Route.php"
+			],
+			[
+				"zfcrbacfirewallrou",
+				"vendor/zf-commons/zfc-rbac/src/ZfcRbac/Firewall/Route.php"
+			],
+			[
+				"module",
+				"module/FinsysAdmin/Module.php"
+			],
+			[
+				"arrays",
+				"vendor/zendframework/zendframework/library/Zend/Session/Storage/ArrayStorage.php"
+			],
+			[
+				"session",
+				"vendor/zendframework/zendframework/library/Zend/Session/Storage/SessionStorage.php"
+			],
+			[
+				"authresul",
+				"vendor/zendframework/zendframework/library/Zend/Authentication/Result.php"
+			],
+			[
+				"authre",
+				"vendor/zendframework/zendframework/library/Zend/Authentication/Result.php"
+			],
+			[
+				"authen",
+				"vendor/zendframework/zendframework/library/Zend/Authentication/AuthenticationService.php"
+			],
+			[
+				"zenddbsqlselect",
+				"vendor/zendframework/zendframework/library/Zend/Db/Sql/Select.php"
+			],
+			[
+				"abstracttab",
+				"vendor/zendframework/zendframework/library/Zend/Db/TableGateway/AbstractTableGateway.php"
+			],
+			[
+				"tablega",
+				"vendor/zendframework/zendframework/library/Zend/Db/TableGateway/TableGateway.php"
+			],
+			[
+				"zendauther",
+				"vendor/zendframework/zendframework/library/Zend/Authentication/AuthenticationService.php"
+			],
+			[
+				"login",
+				"module/FinsysAdmin/src/FinsysAdmin/Controller/LoginController.php"
+			],
+			[
+				"servicemanager.php",
+				"vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php"
+			],
+			[
+				"zendhydratorobje",
+				"vendor/zendframework/zendframework/library/Zend/Stdlib/Hydrator/ObjectProperty.php"
+			],
+			[
+				"zendabstracttab",
+				"vendor/zendframework/zendframework/library/Zend/Db/TableGateway/AbstractTableGateway.php"
+			],
+			[
+				"doctrineormentitymanager",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php"
+			],
+			[
+				"abstractoptions",
+				"vendor/zendframework/zendframework/library/Zend/Stdlib/AbstractOptions.php"
+			],
+			[
+				"entity",
+				"vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Options/EntityManager.php"
+			],
+			[
+				"serviceusuario",
+				"module/FinsysAdmin/src/FinsysAdmin/Service/Usuarios.php"
+			],
+			[
+				"novo.",
+				"module/FinsysAdmin/view/finsys-admin/usuarios/novo.phtml"
+			],
+			[
+				"formusuarios",
+				"module/FinsysAdmin/src/FinsysAdmin/Form/Usuarios.php"
+			],
+			[
+				"hydratorclass",
+				"vendor/zendframework/zendframework/library/Zend/Stdlib/Hydrator/ClassMethods.php"
+			],
+			[
+				"abstractser",
+				"module/FinsysAdmin/src/FinsysAdmin/Service/AbstractService.php"
+			],
+			[
+				"form",
+				"vendor/zendframework/zendframework/library/Zend/Form/Form.php"
+			],
+			[
+				"abstractvalid",
+				"vendor/zendframework/zendframework/library/Zend/Validator/AbstractValidator.php"
+			],
+			[
+				"alnum",
+				"vendor/zendframework/zendframework/library/Zend/I18n/Validator/Alnum.php"
+			],
+			[
+				"zend8alpha",
+				"vendor/zendframework/zendframework/library/Zend/I18n/Validator/Alpha.php"
+			],
+			[
+				"zendform",
+				"vendor/zendframework/zendframework/library/Zend/Form/Form.php"
+			],
+			[
+				"formusuario",
+				"module/FinsysAdmin/src/FinsysAdmin/Form/Usuarios.php"
+			],
+			[
+				"crud",
+				"module/FinsysAdmin/src/FinsysAdmin/Form/CrudFilter.php"
+			],
+			[
+				"crudform",
+				"module/FinsysAdmin/src/FinsysAdmin/Form/CrudForm.php"
+			],
+			[
+				"formusu",
+				"module/FinsysAdmin/src/FinsysAdmin/Form/Usuarios.php"
+			],
+			[
+				"entityusu",
+				"module/FinsysAdmin/src/FinsysAdmin/Entity/Usuarios.php"
+			],
+			[
+				"mod",
+				"module/FinsysAdmin/config/module.config.php"
+			],
+			[
+				"partial",
+				"vendor/zendframework/zendframework/library/Zend/View/Helper/Partial.php"
+			],
+			[
+				"zendpartial",
+				"vendor/zendframework/zendframework/library/Zend/View/Helper/PartialLoop.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"authadaper",
+				"module/FinsysAdmin/src/FinsysAdmin/Auth/Adapter.php"
+			],
+			[
+				"authenti",
+				"vendor/zendframework/zendframework/library/Zend/Authentication/AuthenticationService.php"
+			],
+			[
+				"usuarios",
+				"module/FinsysAdmin/src/FinsysAdmin/Entity/Usuarios.php"
+			],
+			[
+				"doctrineormmappingclassmetadatafactory",
+				"vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/AbstractClassMetadataFactory.php"
+			],
+			[
+				"classmetadatafac",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php"
+			],
+			[
+				"entitymanaer",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php"
+			],
+			[
+				"usua",
+				"module/FinsysAdmin/src/FinsysAdmin/Entity/Usuario.php"
+			],
+			[
+				"commonpersistencemappinge",
+				"vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/MappingException.php"
+			],
+			[
+				"mappingexc",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/MappingException.php"
+			],
+			[
+				"doctrinemetadata",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php"
+			],
+			[
+				"doctrinecommonpersistencemapping",
+				"vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/MappingDriverChain.php"
+			],
+			[
+				"zendformviewhelpersubmit",
+				"vendor/zendframework/zendframework/library/Zend/Form/View/Helper/FormSubmit.php"
+			],
+			[
+				"zendformelement",
+				"vendor/zendframework/zendframework/library/Zend/Form/Element.php"
+			],
+			[
+				"zendformelementsubmit",
+				"vendor/zendframework/zendframework/library/Zend/Form/Element/Submit.php"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"modelcon",
+				"application/models/Contrato.php"
+			],
+			[
+				"modelcontratos",
+				"application/models/ContasContratos.php"
+			],
+			[
+				"contratos.",
+				"public/scripts/contratos.js"
+			],
+			[
+				"re",
+				"public/scripts/renovaveis.js"
+			],
+			[
+				"reno",
+				"application/forms/Renovaveis.php"
+			],
+			[
+				"contratoscon",
+				"application/controllers/ContratosController.php"
+			],
+			[
+				"app.css",
+				"public/stylesheets/app.css"
+			],
+			[
+				"layoutadmin",
+				"application/layouts/scripts/admin.phtml"
+			],
+			[
+				"docs/tri",
+				"docs/MER/trigger_delete_contratos.sql"
+			],
+			[
+				"contratos",
+				"application/forms/Contratos.php"
+			],
+			[
+				"contratoscontrol",
+				"application/controllers/ContratosController.php"
+			],
+			[
+				"listar",
+				"application/views/scripts/partials/listaRenovaveis.phtml"
+			],
+			[
+				"profiss",
+				"application/views/scripts/profissoes/index.phtml"
+			],
+			[
+				"contasco",
+				"application/models/ContasContratos.php"
+			],
+			[
+				"contrato",
+				"application/models/Contrato.php"
+			],
+			[
+				"detah",
+				"application/views/scripts/contratos/detalhes.phtml"
+			],
+			[
+				"contascon",
+				"application/models/ContasContratos.php"
+			],
+			[
+				"contr",
+				"public/scripts/contratos.js"
+			],
+			[
+				"produtoscontroler",
+				"application/controllers/ProdutosController.php"
+			],
+			[
+				"formprodutos",
+				"application/forms/Produtos.php"
+			],
+			[
+				"modelcontra",
+				"application/models/Contrato.php"
+			],
+			[
+				"contratoscontr",
+				"application/controllers/ContratosController.php"
+			],
+			[
+				"produtoscon",
+				"application/controllers/ProdutosController.php"
+			],
+			[
+				"produtosinde",
+				"application/views/scripts/produtos/index.phtml"
+			],
+			[
+				"formpro",
+				"application/forms/Produtos.php"
+			],
+			[
+				"constr",
+				"application/controllers/ConstrutorasController.php"
+			],
+			[
+				"clientes",
+				"public/scripts/clientes.js"
+			],
+			[
+				"constru",
+				"public/scripts/construtoras.js"
+			],
+			[
+				"construtoras",
+				"application/views/scripts/construtoras/index.phtml"
+			],
+			[
+				"contratosindex",
+				"application/views/scripts/contratos/index.phtml"
+			],
+			[
+				"contratoscotr",
+				"application/controllers/ContratosController.php"
+			],
+			[
+				"modelfinha",
+				"application/models/Finhabdados.php"
+			],
+			[
+				"modelcidae",
+				"application/models/Cidades.php"
+			],
+			[
+				"contratosco",
+				"application/controllers/ContratosController.php"
+			],
+			[
+				"vw_",
+				"docs/MER/vw_detalhes_contratos.sql"
+			],
+			[
+				"zenddbadapter",
+				"library/Zend/Db/Adapter/Abstract.php"
+			],
+			[
+				"zenddbadaptera",
+				"library/Zend/Validate/Barcode/AdapterAbstract.php"
+			],
+			[
+				"zenddbadaptermysq",
+				"library/Zend/Db/Adapter/Mysqli.php"
+			],
+			[
+				"zenddbtable",
+				"library/Zend/Db/Table/Abstract.php"
+			],
+			[
+				"consig",
+				"application/models/Consignado.php"
+			],
+			[
+				"modelfin",
+				"application/models/Finhab.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true
+}

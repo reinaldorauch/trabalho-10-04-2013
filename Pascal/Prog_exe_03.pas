@@ -17,6 +17,12 @@ Var
  	writeln('Digite o terceir lado:');
  	readln(c);
  	
+ 	if (a < b) or (b < c) then
+ 	begin
+ 		writeln('O primeiro lado não pode ser menor que o segundo nem o segundo pode ser menor que o terceiro');
+ 		exit;
+ 	end;
+ 	
  	s := ((a + b + c) / 2);
  	area := sqrt(s * (s - a) * (s - b) * (s - c));
  	

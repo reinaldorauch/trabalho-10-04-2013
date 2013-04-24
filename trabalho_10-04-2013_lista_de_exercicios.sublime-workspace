@@ -520,75 +520,6 @@
 	"buffers":
 	[
 		{
-			"file": "C/Prog_exe_01.c",
-			"settings":
-			{
-				"buffer_size": 572,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "C/Prog_exe_02.c",
-			"settings":
-			{
-				"buffer_size": 414,
-				"line_ending": "Unix",
-				"name": "Program Prog_exe_02 ;"
-			}
-		},
-		{
-			"file": "C/Prog_exe_03.c",
-			"settings":
-			{
-				"buffer_size": 783,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "C/Prog_exe_04.c",
-			"settings":
-			{
-				"buffer_size": 424,
-				"line_ending": "Unix",
-				"name": "Program Prog_exe_04 ;"
-			}
-		},
-		{
-			"file": "C/Prog_exe_05.c",
-			"settings":
-			{
-				"buffer_size": 243,
-				"line_ending": "Unix",
-				"name": "Program Prog_exe_05;"
-			}
-		},
-		{
-			"file": "C/Prog_exe_06.c",
-			"settings":
-			{
-				"buffer_size": 399,
-				"line_ending": "Unix",
-				"name": "Program Prog_exe_06;"
-			}
-		},
-		{
-			"file": "C/Prog_exe_07.c",
-			"settings":
-			{
-				"buffer_size": 423,
-				"line_ending": "Unix",
-				"name": "Program Prog_exe_07;"
-			}
-		},
-		{
-			"file": "C/Prog_exe_07.c",
-			"settings":
-			{
-				"buffer_size": 415,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "C/Prog_exe_08.c",
 			"settings":
 			{
@@ -598,15 +529,15 @@
 			}
 		},
 		{
-			"contents": "#include <stdio.h>\n\nint main()\n{\n	int n1, n2, n3;\n\n	printf(\"Programa que determina o menor entre três números\\n\");\n	printf(\"Escreva o primeiro número:\\n\");\n	scanf(\"%d\", &n1);\n\n	printf(\"Escreva o segundo número:\\n\");\n	scanf(\"%d\", &n2);\n\n	printf(\"Escreva o terceiro número:\\n\");\n	scanf(\"%d\", &n3);\n\n	if (n1 = n2) and (n2 = n3) {\n		printf(\"Os números são iguais.\\n\");\n		return 1;\n	}\n\n	if (n1 < n2)\n	{\n		if (n3 < n1)\n		{\n			printf(\"%d é o menor\\n\", n3);\n		}\n	}\n\n	return 0;\n}\n 	if n1 < n2 then\n 		if n3 < n1 then\n 			writeln(n3, ' é o menor')\n 		else\n 			writeln(n1, ' é o menor')\n 	else\n 		if n3 < n2 then\n 			writeln(n3, ' é o menor')\n 		else\n 			writeln(n2, ' é o menor');\n  \n End.",
-			"file": "C/Prog_exe_09.c",
-			"file_size": 683,
-			"file_write_time": 1366760257000000,
+			"contents": "#include <stdio.h>\n\nint main()\n{\n\n	int n1, n2, n3;\n\n	printf(\"Programa que ordena três números em ordem crescente\\n\");\n	printf(\"Escreva o primeiro número:\\n\");\n	scanf(\"%d\", &n1);\n\n	printf(\"Escreva o segundo número:\\n\");\n	scanf(\"%d\", &n2);\n\n	printf(\"Escreva o segundo número:\\n\");\n	scanf(\"%d\", &n3);\n\n	if (n1 < n2) {\n\n	} else {\n		\n	}\n		if n3 < n1 then\n			writeln('A ordem dos números ficam: ', n3, ', ', n1, ', ', n2)\n		else if n3 > n2 then\n			writeln('A ordem dos números ficam: ', n1, ', ', n2, ', ', n3)\n		else\n			writeln('A ordem dos números ficam: ', n1, ', ', n3, ', ', m2)\n	else\n		if \n  \n\n	return 0;\n}\n End.",
+			"file": "C/Prog_exe_10.c",
+			"file_size": 604,
+			"file_write_time": 1366783591000000,
 			"settings":
 			{
-				"buffer_size": 679,
+				"buffer_size": 612,
 				"line_ending": "Unix",
-				"name": "Program Prog_exe_9;"
+				"name": "Program Prog_exe_10;"
 			}
 		}
 	],
@@ -774,6 +705,14 @@
 	},
 	"file_history":
 	[
+		"/home/reinaldo/uepg/Algoritmos e Programação/trabalho_10-04-13_lista_exercicios/C/Prog_exe_07.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/trabalho_10-04-13_lista_exercicios/C/Prog_exe_06.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/trabalho_10-04-13_lista_exercicios/C/Prog_exe_05.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/trabalho_10-04-13_lista_exercicios/C/Prog_exe_04.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/trabalho_10-04-13_lista_exercicios/C/Prog_exe_09.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/trabalho_10-04-13_lista_exercicios/C/Prog_exe_03.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/trabalho_10-04-13_lista_exercicios/C/Prog_exe_02.c",
+		"/home/reinaldo/uepg/Algoritmos e Programação/trabalho_10-04-13_lista_exercicios/C/Prog_exe_01.c",
 		"/home/reinaldo/uepg/Algoritmos e Programação/trabalho_10-04-13_lista_exercicios/Pascal/Prog_exe_03.c",
 		"/home/reinaldo/uepg/Algoritmos e Programação/trabalho_10-04-13_lista_exercicios/Prog_exe_01.pas",
 		"/home/reinaldo/trabalhos/finsys/public/js/files/functions.js",
@@ -893,15 +832,7 @@
 		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Controller/CrudController.php",
 		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Form/CrudForm.php",
 		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Service/Usuarios.php",
-		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/view/finsys-admin/usuarios/novo.phtml",
-		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Form/UsuarioFilter.php",
-		"/home/reinaldo/trabalhos/finsys/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php",
-		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Service/AbstractService.php",
-		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Entity/PerfilRepository.php",
-		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/src/FinsysAdmin/Entity/Usuarios.php",
-		"/home/reinaldo/trabalhos/finsys/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Options/EntityManager.php",
-		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/Stdlib/AbstractOptions.php",
-		"/home/reinaldo/trabalhos/finsys/vendor/zendframework/zendframework/library/Zend/I18n/Validator/Alnum.php"
+		"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/view/finsys-admin/usuarios/novo.phtml"
 	],
 	"find":
 	{
@@ -1099,23 +1030,23 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "C/Prog_exe_01.c",
+					"file": "C/Prog_exe_08.c",
 					"settings":
 					{
-						"buffer_size": 572,
+						"buffer_size": 428,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								500,
-								500
+								287,
+								287
 							]
 						],
 						"settings":
@@ -1126,6 +1057,7 @@
 								"README",
 								"FIXME"
 							],
+							"auto_name": "Program Prog_exe_08;",
 							"csslint_options":
 							{
 								"adjoining-classes": "warning",
@@ -1160,10 +1092,10 @@
 								"vendor-prefix": true,
 								"zero-units": "warning"
 							},
-							"encoding_helper_confidence": 0.0,
-							"encoding_helper_encoding": "Unknown",
+							"encoding_helper_confidence": 0.99,
+							"encoding_helper_encoding": "UTF-8",
 							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 0,
+							"function_name_status_row": 13,
 							"gjslint_ignore":
 							[
 								110
@@ -1223,808 +1155,32 @@
 				},
 				{
 					"buffer": 1,
-					"file": "C/Prog_exe_02.c",
+					"file": "C/Prog_exe_10.c",
 					"settings":
 					{
-						"buffer_size": 414,
+						"buffer_size": 612,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								413,
-								413
+								315,
+								315
 							]
 						],
 						"settings":
 						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"auto_name": "Program Prog_exe_02 ;",
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"encoding_helper_confidence": 0.99,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 0,
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/C++/C.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "C/Prog_exe_03.c",
-					"settings":
-					{
-						"buffer_size": 783,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								523,
-								523
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"encoding_helper_confidence": 0.99,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 23,
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/C++/C.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "C/Prog_exe_04.c",
-					"settings":
-					{
-						"buffer_size": 424,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								383,
-								383
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"auto_name": "Program Prog_exe_04 ;",
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"encoding_helper_confidence": 0.99,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 0,
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/C++/C.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "C/Prog_exe_05.c",
-					"settings":
-					{
-						"buffer_size": 243,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								170,
-								170
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"auto_name": "Program Prog_exe_05;",
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"encoding_helper_confidence": 0.938125,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 0,
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/C++/C.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "C/Prog_exe_06.c",
-					"settings":
-					{
-						"buffer_size": 399,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								359,
-								359
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"auto_name": "Program Prog_exe_06;",
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"encoding_helper_confidence": 0.99,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 0,
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/C++/C.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "C/Prog_exe_07.c",
-					"settings":
-					{
-						"buffer_size": 423,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								197,
-								197
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Program Prog_exe_07;",
-							"encoding_helper_confidence": 0.99,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 10,
-							"syntax": "Packages/C++/C.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "C/Prog_exe_07.c",
-					"settings":
-					{
-						"buffer_size": 415,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								352,
-								352
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"encoding_helper_confidence": 0.99,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 15,
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/C++/C.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "C/Prog_exe_08.c",
-					"settings":
-					{
-						"buffer_size": 428,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								287,
-								287
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Program Prog_exe_08;",
-							"encoding_helper_confidence": 0.99,
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_helper_encoding_sublime": "UTF-8",
-							"function_name_status_row": 13,
-							"syntax": "Packages/C++/C.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "C/Prog_exe_09.c",
-					"settings":
-					{
-						"buffer_size": 679,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								440,
-								440
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Program Prog_exe_9;",
+							"auto_name": "Program Prog_exe_10;",
 							"encoding_helper_confidence": 0.99,
 							"encoding_helper_encoding": "UTF-8",
 							"encoding_helper_encoding_sublime": "UTF-8",
 							"function_name_status_row": -1,
-							"syntax": "Packages/C++/C.tmLanguage"
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 255.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
